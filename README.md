@@ -1,4 +1,7 @@
-# Ted
+## Edgar "Ted" F. Codd
+
+[![Ted](./Codd.png)](https://en.wikipedia.org/wiki/Edgar_F._Codd)
+
 
 ## Run a postgresql database
 
@@ -16,3 +19,7 @@ docker run \
 postgres:latest \
  -c 'config_file=/etc/postgresql/postgresql.conf'
 ```
+
+*note:* stuff you see here is lots inspired by
+- https://medium.com/pragmatic-programmers/use-hugsql-c3cf85e53678
+- Codd image copied from here: https://www.dataversity.net/myth-1-normalization-friend-foe-or-frenemy-the-survey/codd/
